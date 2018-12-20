@@ -1,5 +1,5 @@
 require_relative 'cambio'
-require_relative 'sqlite3'
+#require_relative 'sqlite3'
 
 class Cashier
 

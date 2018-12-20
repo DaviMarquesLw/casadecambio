@@ -14,5 +14,5 @@ class Cambio
     @type_sale = type_sale
     @type_buy = type_buy
   end
-
+    
 end

@@ -16,6 +16,7 @@ require_relative "cashier"
   end
 
   cashier = Cashier.new
+  
   option = menu
   
   while option != 7 do
